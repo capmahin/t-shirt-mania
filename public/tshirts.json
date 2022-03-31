@@ -1,0 +1,74 @@
+[
+    {
+      "_id": "624612084945f5dadd1222a7",
+      "index": 98,
+      "picture": "https://99designs-start-attachments.imgix.net/alchemy-pictures/2016%2F01%2F26%2F21%2F38%2F27%2F9e6ce5bb-4ee0-4618-9a58-00b9d4487c0b%2F129788_Ivanpratt.png?auto=format&ch=Width%2CDPR&fm=png&w=558&h=669",
+      "name": "Gould",
+      "price": 19462,
+      "gender": "male"
+    },
+    {
+      "_id": "62461208e60c5a75d92cf5e5",
+      "index": 46,
+      "picture": "https://5.imimg.com/data5/CR/OL/NO/ANDROID-36904487/img-20181220-wa0001-jpg-500x500.jpg",
+      "name": "Baldwin",
+      "price": 37469,
+      "gender": "male"
+    },
+    {
+      "_id": "6246120896177f9d94cc5843",
+      "index": 89,
+      "picture": "https://i.pinimg.com/originals/be/6c/79/be6c797f1fb6c158df81514d1c428a3b.jpg",
+      "name": "Zamora",
+      "price": 56703,
+      "gender": "male"
+    },
+    {
+      "_id": "62461208a6e5544bdc6e07c4",
+      "index": 35,
+      "picture": "https://cpimg.tistatic.com/06884865/b/4/Half-Sleeve-Sports-Printed-Colour-T-Shirt.jpg",
+      "name": "Buckley",
+      "price": 34118,
+      "gender": "male"
+    },
+    {
+      "_id": "62461208ee3328647571081d",
+      "index": 60,
+      "picture": "https://5.imimg.com/data5/RF/HN/MY-10855692/csj003f-500x500.jpg",
+      "name": "Dillon",
+      "price": 46204,
+      "gender": "male"
+    },
+    {
+      "_id": "624612081b73bba83169366f",
+      "index": 39,
+      "picture": "https://fabrilife.com/image-gallery/61a794e19d4b4-square.jpg",
+      "name": "Claudette",
+      "price": 35354,
+      "gender": "male"
+    },
+    {
+      "_id": "624612080b18d7fa7bc78124",
+      "index": 68,
+      "picture": "https://rukminim2.flixcart.com/image/332/398/kkfrjww0/t-shirt/h/1/t/l-t312-cgblwh-new-eyebogler-original-imafzs5hrjgzsfpr.jpeg?q=50",
+      "name": "Fuller",
+      "price": 46428,
+      "gender": "male"
+    },
+    {
+      "_id": "624612087eb4e633c647b9e7",
+      "index": 75,
+      "picture": "https://3.imimg.com/data3/FC/ER/MY-9556421/latest-men-t-shirt-250x250.jpg",
+      "name": "Murphy",
+      "price": 30310,
+      "gender": "male"
+    },
+    {
+      "_id": "6246120892e95e5f9fc9b9bf",
+      "index": 9,
+      "picture": "https://5.imimg.com/data5/WH/QR/MY-41990161/full-sleeve-t-shirt-500x500.jpg",
+      "name": "Mcintosh",
+      "price": 19571,
+      "gender": "male"
+    }
+  ]
