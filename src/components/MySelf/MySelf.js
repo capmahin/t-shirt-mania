@@ -1,4 +1,5 @@
 import React from "react";
+import Special from "../Special/Special";
 import "./MySelf.css";
 
 const MySelf = ({ house }) => {
@@ -7,6 +8,7 @@ const MySelf = ({ house }) => {
       <h4>My-Self</h4>
       <p>
         <small>house:{house}</small>
+        <Special></Special>
       </p>
     </div>
   );
