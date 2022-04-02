@@ -7,10 +7,13 @@ import Aunty from "../Aunty/Aunty";
 const Grandpa = () => {
   const house = 7;
   return (
-    <div className="grandpa" style={{ display: "flex" }}>
-      <Father house={house}></Father>
-      <Uncle house={house}></Uncle>
-      <Aunty house={house}></Aunty>
+    <div className="grandpa">
+      <h4>Grand Pa</h4>
+      <div style={{ display: "flex" }}>
+        <Father house={house}></Father>
+        <Uncle house={house}></Uncle>
+        <Aunty house={house}></Aunty>
+      </div>
     </div>
   );
 };
