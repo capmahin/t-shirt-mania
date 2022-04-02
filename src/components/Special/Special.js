@@ -1,9 +1,10 @@
 import React from "react";
 
-const Special = () => {
+const Special = ({ ornament }) => {
   return (
     <div>
       <h5>Special</h5>
+      <p>Gift:{ornament}</p>
     </div>
   );
 };
